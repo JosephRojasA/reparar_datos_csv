@@ -1,0 +1,2 @@
+Error procesando t_tercero 2(t_tercero).csv:
+name 'reporte_nombres' is not defined

@@ -1,0 +1,2 @@
+Error procesando PERSONA CAPTUREPRO(persona).csv:
+name 'reporte_nombres' is not defined
